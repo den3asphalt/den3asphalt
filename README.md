@@ -33,9 +33,9 @@ YoutubeとMisskey.ioはまともに動かしてません。
 [![JSON](https://custom-icon-badges.herokuapp.com/badge/JSON-292929.svg?logo=JSON&logoColor=white)]()
 
 ## 取得資格
-基本情報技術者試験 合格
-応用情報技術者試験 合格
-情報処理安全確保支援士試験 合格
+基本情報技術者試験 合格  
+応用情報技術者試験 合格  
+情報処理安全確保支援士試験 合格  
 他こまごまとしたもの
 
 ## 実績
