@@ -6,7 +6,17 @@ den3っていうサークルに入った時に適当に決めたハンネから�
 サークルは✨辞めました✨  
 
 ## 何してるの？
-**Blue Archive**と**CHUNITHM**やってます。  
+<p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://www.yostar.co.jp/images/logo/bluearchive_logo.png">
+  <source media="(prefers-color-scheme: light)" srcset="https://webusstatic.yo-star.com/ba2nd_web/prod/dist/img/logo.1b872cbe.svg">
+  <img alt="Blue Archive Logo" src="https://webusstatic.yo-star.com/ba2nd_web/prod/dist/img/logo.1b872cbe.svg" height=100px>
+</picture>
+と
+<img src="https://chunithm.sega.jp/storage/top/pc/top_main_logo.png" height=100px>
+やってます。  
+</p>
+
 ブルアカはチナトロ目指して、ウニは金ポゼと16.75目指して頑張ってます。  
 あと他大学や他学部の授業に行ったり、全国行脚したり、読書したりしてます。  
 最近だと他学部研究室に配属されたり個人的なパーティ主催したりしました。  
