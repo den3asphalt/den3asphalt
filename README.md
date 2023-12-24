@@ -2,21 +2,29 @@
 
 ## Skills and Certifications
 ### Language
-[![C](https://custom-icon-badges.herokuapp.com/badge/C-555555.svg?logo=c-in-hexagon&logoColor=white)]()
-[![Java](https://custom-icon-badges.herokuapp.com/badge/Java-b07219.svg?logo=Java&logoColor=white)]()
-[![JavaScript](https://custom-icon-badges.herokuapp.com/badge/JavaScript-f1e05a.svg?logo=JavaScript&logoColor=white)]()
 [![Python](https://custom-icon-badges.herokuapp.com/badge/Python-3572A5.svg?logo=Python&logoColor=white)]()
-[![SQL](https://custom-icon-badges.herokuapp.com/badge/SQL-e38c00.svg?logo=SQL&logoColor=white)]()
+[![Java](https://custom-icon-badges.herokuapp.com/badge/Java-b07219.svg?logo=Java&logoColor=white)]()
+[![C](https://custom-icon-badges.herokuapp.com/badge/C-555555.svg?logo=c-in-hexagon&logoColor=white)]()
+[![JavaScript](https://custom-icon-badges.herokuapp.com/badge/JavaScript-f1e05a.svg?logo=JavaScript&logoColor=white)]()
 [![TypeScript](https://custom-icon-badges.herokuapp.com/badge/TypeScript-2b7489.svg?logo=TypeScript&logoColor=white)]()
-### FrameWork and Package
-[![NodeJS](https://img.shields.io/badge/Node.js-43853D.svg?logo=node.js&logoColor=white)]()
-[![Gradle](https://custom-icon-badges.herokuapp.com/badge/Gradle-02303a.svg?logo=Gradle&logoColor=white)]()
+[![SQL](https://custom-icon-badges.herokuapp.com/badge/SQL-e38c00.svg?logo=SQL&logoColor=white)]()
+
+### Library and Framework
 [![NumPy](https://custom-icon-badges.herokuapp.com/badge/NumPy-9C8AF9.svg?logo=NumPy&logoColor=white)]()
+[![jQuery](https://img.shields.io/badge/-Jquery-0769AD.svg?logo=jquery)]()
+[![NodeJS](https://img.shields.io/badge/Node.js-43853D.svg?logo=node.js&logoColor=white)]()
+[![React](https://img.shields.io/badge/-React-61DAFB.svg?logo=react)]()
 
 ### Others
-[![CSS](https://custom-icon-badges.herokuapp.com/badge/CSS-563d7c.svg?logo=css3)]()
+[![Gradle](https://custom-icon-badges.herokuapp.com/badge/Gradle-02303a.svg?logo=Gradle&logoColor=white)]()
 [![HTML](https://custom-icon-badges.herokuapp.com/badge/HTML-e34c26.svg?logo=HTML&logoColor=white)]()
+[![CSS](https://custom-icon-badges.herokuapp.com/badge/CSS-563d7c.svg?logo=css3)]()
 [![JSON](https://custom-icon-badges.herokuapp.com/badge/JSON-292929.svg?logo=JSON&logoColor=white)]()
+
+### Editor and IDE
+[![intelliJ](https://img.shields.io/badge/-Intellijidea-000000.svg?logo=intellijidea)]()
+[![VScode](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC.svg?logo=visualstudiocode)]()
+
 
 ### Certifications
 情報処理安全確保支援士試験 合格  
