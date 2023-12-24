@@ -8,10 +8,11 @@
 [![Python](https://custom-icon-badges.herokuapp.com/badge/Python-3572A5.svg?logo=Python&logoColor=white)]()
 [![SQL](https://custom-icon-badges.herokuapp.com/badge/SQL-e38c00.svg?logo=SQL&logoColor=white)]()
 [![TypeScript](https://custom-icon-badges.herokuapp.com/badge/TypeScript-2b7489.svg?logo=TypeScript&logoColor=white)]()
-### Package
+### FrameWork and Package
 [![NodeJS](https://img.shields.io/badge/Node.js-43853D.svg?logo=node.js&logoColor=white)]()
-[![NumPy](https://custom-icon-badges.herokuapp.com/badge/NumPy-9C8AF9.svg?logo=NumPy&logoColor=white)]()
 [![Gradle](https://custom-icon-badges.herokuapp.com/badge/Gradle-02303a.svg?logo=Gradle&logoColor=white)]()
+[![NumPy](https://custom-icon-badges.herokuapp.com/badge/NumPy-9C8AF9.svg?logo=NumPy&logoColor=white)]()
+
 ### Others
 [![CSS](https://custom-icon-badges.herokuapp.com/badge/CSS-563d7c.svg?logo=css3)]()
 [![HTML](https://custom-icon-badges.herokuapp.com/badge/HTML-e34c26.svg?logo=HTML&logoColor=white)]()
