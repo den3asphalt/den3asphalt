@@ -65,7 +65,7 @@ den3っていうサークルに入った時に適当に決めたハンネから�
   <img alt="Blue Archive Logo"  height=100px>
 </picture>
 と
-<img alt="CHUNITHM Logo" src="https://chunithm.sega.jp/storage/top/pc/top_main_logo.png" height=100px>
+<img alt="CHUNITHM Logo" src="https://chunithm.sega.jp/storage/top/pc/top_main_logo.png#" height=100px>
 やってます。  
 </p>
 
