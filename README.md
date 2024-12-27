@@ -30,6 +30,8 @@
 情報処理安全確保支援士試験 合格  
 応用情報技術者試験 合格  
 基本情報技術者試験 合格  
+知的財産管理技能検定 3級 合格  
+画像処理エンジニア試験 エキスパート 合格  
 
 ## Awards and honors
 Mynavi Intern Hackathon 2023 Summer 技術賞  
