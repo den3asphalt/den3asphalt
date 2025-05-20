@@ -34,6 +34,8 @@
 画像処理エンジニア試験 エキスパート 合格  
 
 ## Awards and honors
+2025 CG-ARTS賞 受賞
+図書館 ベストリーダー賞 受賞
 Mynavi Intern Hackathon 2023 Summer 技術賞  
 2023年度情報実験I プログラミングクイズ大会 優勝  
 2021年度プログラミング入門I 優秀賞  
