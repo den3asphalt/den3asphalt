@@ -92,4 +92,4 @@ YoutubeとMisskey.ioはまともに動かしてません。
 [参考サイト](https://qiita.com/SNQ-2001/items/eb5d35d9d09580888a84)
 
 ## 他の話とか備忘録
-~~[個人開発メモ](/devMemo.md)==\\~~ 情報実験の話
+
