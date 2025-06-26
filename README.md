@@ -40,8 +40,8 @@
 Mynavi Intern Hackathon 2023 Summer 技術賞  
 2023年度情報実験I プログラミングクイズ大会 優勝  
 2021年度プログラミング入門I 優秀賞  
-2025 CG-ARTS賞 受賞  
-図書館 ベストリーダー賞 受賞  
+2024年度 CG-ARTS賞 受賞  
+2025年度 ベストリーダー賞 受賞  
 
 ## Products
 [ScombZ Utilities](https://github.com/yudai1204/ScombZ-Utilities)(contributor)  
