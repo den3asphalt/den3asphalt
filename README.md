@@ -8,6 +8,9 @@
 [![JavaScript](https://custom-icon-badges.herokuapp.com/badge/JavaScript-f1e05a.svg?logo=JavaScript&logoColor=white)]()
 [![TypeScript](https://custom-icon-badges.herokuapp.com/badge/TypeScript-2b7489.svg?logo=TypeScript&logoColor=white)]()
 [![SQL](https://custom-icon-badges.herokuapp.com/badge/SQL-e38c00.svg?logo=SQL&logoColor=white)]()
+[![R](https://custom-icon-badges.herokuapp.com/badge/R-198CE7.svg?logo=R&logoColor=white)]()
+[![VBA](https://custom-icon-badges.herokuapp.com/badge/VBA-867db1.svg?logo=VBA&logoColor=white)]()
+
 
 ### Library and Framework
 [![NumPy](https://custom-icon-badges.herokuapp.com/badge/NumPy-9C8AF9.svg?logo=NumPy&logoColor=white)]()
