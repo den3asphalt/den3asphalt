@@ -69,10 +69,10 @@ den3っていうサークルに入った時に適当に決めたハンネから�
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://www.yostar.co.jp/images/logo/bluearchive_logo.png">
   <source media="(prefers-color-scheme: light)" srcset="https://webusstatic.yo-star.com/ba2nd_web/prod/dist/img/logo.1b872cbe.svg">
-  <img alt="Blue Archive Logo"  height=100px>
+  <img alt="Blue Archive Logo" style="height:100px">
 </picture>
 と
-<img alt="CHUNITHM Logo" src="https://chunithm.sega.jp/storage/top/pc/top_main_logo.png#" height=100px>
+<img alt="CHUNITHM Logo" src="https://chunithm.sega.jp/storage/top/pc/top_main_logo.png#" style="height:100px">
 やってます。  
 </p>
 
