@@ -43,7 +43,7 @@ Mynavi Intern Hackathon 2023 Summer 技術賞
 2024年度 CG-ARTS賞 受賞  
 2025年度 ベストリーダー賞 受賞  
 
-## Products
+## Other Products
 [ScombZ Utilities](https://github.com/yudai1204/ScombZ-Utilities)(contributor)  
 [UserScripts](https://greasyfork.org/ja/users/770195-den3asphalt)
 
