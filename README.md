@@ -45,15 +45,16 @@ Mynavi Intern Hackathon 2023 Summer 技術賞
 
 ## Other Products
 [ScombZ Utilities](https://github.com/yudai1204/ScombZ-Utilities)(contributor)  
-[UserScripts](https://greasyfork.org/ja/users/770195-den3asphalt)
+[UserScripts(greasyfork)](https://greasyfork.org/ja/users/770195-den3asphalt)
 
 <br>
 
 <br>
 
 
+
+<!-- 
 # ～～～まじめなのここまで～～～
-
 
 <br>
 
@@ -89,10 +90,12 @@ AI系ではRTX 4090とi9 13900k買ってStable Diffusion動かしたり、RVC触
 
 ## SNS教えて！
 TwitterとTruth Social、Blueskyもやってます。  
-YoutubeとMisskey.ioはまともに動かしてません。
+YoutubeとMisskey.ioはまともに動かしてません。](url)
+
+-->
 
 ## バッジ引用元
 [参考サイト](https://qiita.com/SNQ-2001/items/eb5d35d9d09580888a84)
 
 ## 他の話とか備忘録
-
+調整中
